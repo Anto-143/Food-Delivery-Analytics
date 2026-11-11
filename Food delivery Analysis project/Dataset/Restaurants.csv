@@ -1,0 +1,51 @@
+"restaurant_id";"restaurant_name";"cuisine_type";"city";"rating"
+1;"Spice Garden";"Chinese";"Bengaluru";4.2
+2;"Urban Tandoor";"Italian";"Hyderabad";2.5
+3;"Coastal Curry House";"Fast Food";"Coimbatore";4.5
+4;"The Dosa Corner";"South Indian";"Pune";3.4
+5;"Green Leaf Bistro";"Indian";"Chennai";4.1
+6;"Royal Biryani Hub";"Chinese";"Bengaluru";3.9
+7;"Chennai Food Street";"Italian";"Hyderabad";3.3
+8;"Saffron Kitchen";"Fast Food";"Coimbatore";4.4
+9;"Madras Meal House";"South Indian";"Pune";3.7
+10;"Tasty Treats Cafe";"Indian";"Chennai";4.8
+11;"Curry Leaves Restaurant";"Chinese";"Bengaluru";4.0
+12;"Pepper & Plate";"Italian";"Hyderabad";3.5
+13;"South Spice Kitchen";"Fast Food";"Coimbatore";4.3
+14;"The Hungry Fork";"South Indian";"Pune";2.5
+15;"Grand Kitchen";"Indian";"Chennai";4.6
+16;"Rice Bowl Express";"Chinese";"Bengaluru";4.1
+17;"Golden Wok";"Italian";"Hyderabad";3.2
+18;"Masala Junction";"Fast Food";"Coimbatore";4.2
+19;"Flame Grill House";"South Indian";"Pune";3.9
+20;"Fresh Farm Cafe";"Indian";"Chennai";4.7
+21;"Annapoorna Veg Kitchen";"Chinese";"Bengaluru";4.0
+22;"The Noodle Story";"Italian";"Hyderabad";3.3
+23;"Street Spice Cafe";"Fast Food";"Coimbatore";4.4
+24;"Crispy Crust Pizza";"South Indian";"Pune";3.2
+25;"Bamboo Garden";"Indian";"Chennai";4.1
+26;"The Burger Station";"Chinese";"Bengaluru";3.7
+27;"Heritage Meals";"Italian";"Hyderabad";4.3
+28;"Urban Tiffin";"Fast Food";"Coimbatore";3.9
+29;"Royal Rasoi";"South Indian";"Pune";4.5
+30;"Ocean Pearl Seafood";"Indian";"Chennai";3.3
+31;"Chaat Street";"Chinese";"Bengaluru";4.2
+32;"Midtown Cafe";"Italian";"Hyderabad";3.1
+33;"Tandoori Trails";"Fast Food";"Coimbatore";4.6
+34;"The Curry Pot";"South Indian";"Pune";3.3
+35;"Little Italy Kitchen";"Indian";"Chennai";4.0
+36;"Wok & Roll";"Chinese";"Bengaluru";4.8
+37;"Gardenia Family Restaurant";"Italian";"Hyderabad";2.8
+38;"Dine Square";"Fast Food";"Coimbatore";4.3
+39;"Sizzle & Spice";"South Indian";"Pune";3.4
+40;"The Breakfast Club";"Indian";"Chennai";4.1
+41;"Biriyani Boulevard";"Chinese";"Bengaluru";4.5
+42;"Mint Leaf Restaurant";"Italian";"Hyderabad";3.9
+43;"Copper Chimney Cafe";"Fast Food";"Coimbatore";2.9
+44;"Foodie's Stop";"South Indian";"Pune";4.4
+45;"Cedar Grill";"Indian";"Chennai";3.8
+46;"The Veg Table";"Chinese";"Bengaluru";4.2
+47;"Spice Route Dining";"Italian";"Hyderabad";3.6
+48;"Cafe Mosaic";"Fast Food";"Coimbatore";4.7
+49;"Harvest Kitchen";"South Indian";"Pune";4.0
+50;"Moonlight Family Restaurant";"Indian";"Chennai";3.3
